@@ -1,0 +1,3 @@
+Step to of the assignment asks to create a text file.
+
+4.	In your editor or IDE, edit the new file that you created and save the changes. You can also do this through the command using Vim. 
